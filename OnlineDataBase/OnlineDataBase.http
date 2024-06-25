@@ -1,0 +1,6 @@
+@OnlineDataBase_HostAddress = http://localhost:5283
+
+GET {{OnlineDataBase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
