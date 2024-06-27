@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FileManager.Models.UserFolderModels
 {
-    internal class DeleteUserModel
+    public class DeleteUserModel
     {
     }
 }

@@ -9,8 +9,8 @@ namespace FileManager.interfaces
 {
     public interface IUserFolderManager
     {
-        Status CreateUserFolder();
-        Status UpdateUserFolder();
-        Status DeleteUserFolder();
+        Task<Status> CreateUserFolder();
+        Task<Status> UpdateUserFolder();
+        Task<Status> DeleteUserFolder();
     }
 }
