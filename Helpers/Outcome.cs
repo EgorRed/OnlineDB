@@ -15,6 +15,7 @@ namespace Helpers
         {
             status = _status;
             data = _data;
+            jj = 0;
         }
     }
 }
