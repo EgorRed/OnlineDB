@@ -9,7 +9,6 @@ namespace Helpers
     public enum RequestStatus
     {
         OK,
-        OK2,
         DataIsNull,
         DataIsNotFound,
         DataRepetition,
