@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FileManager.Models.UserFileDataModels
 {
-    internal class CreateDataFileModel
+    public class CreateDataFileModel
     {
     }
 }
