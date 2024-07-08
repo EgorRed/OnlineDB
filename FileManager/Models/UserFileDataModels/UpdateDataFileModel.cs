@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FileManager.Models.UserFolderModels
+namespace FileManager.Models.UserFileDataModels
 {
-    public class CreateUserModel
+    internal class UpdateDataFileModel
     {
     }
 }
